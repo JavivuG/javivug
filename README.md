@@ -19,7 +19,7 @@ Software Engineer
 
 ### Socials
 
-<p align="left">![Leetcode Stats](https://leetcard.jacoblin.cool/javivu)</p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/javivu)
 
 ### Badges
 
