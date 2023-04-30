@@ -1,4 +1,4 @@
-Hi 👋 My name is Javier García
+Hi 👋, My name is Javier García
 ==============================
 
 Software Engineer
@@ -19,10 +19,10 @@ Software Engineer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/JavivuG" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left">![Leetcode Stats](https://leetcard.jacoblin.cool/javivu)</p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/JavivuG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JavivuG&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="left"><a href="http://www.github.com/JavivuG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JavivuG&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
