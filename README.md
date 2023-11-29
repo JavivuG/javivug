@@ -1,11 +1,4 @@
 Hi 👋, My name is Javier García
-==============================
-
-Software Engineer
------------------
-
-* 🌍  I'm based in Valladolid
-* ✉️  You can contact me at [javiergarciaglz16@gmail.com](mailto:javiergarciaglz16@gmail.com)
 
 ### Skills
 
