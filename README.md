@@ -37,13 +37,11 @@ I started as an **L1 SOC analyst**, so everything I build is designed around the
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🤖 **soc-agents** | PoC automating a managed SOC (MSSP) with AI agents: triage, human approval for containment, and multi-SIEM support (Splunk, Elastic, QRadar). | Python · LangGraph |
+| 🤖 **Soc-agents** | PoC automating a managed SOC (MSSP) with AI agents: triage, human approval for containment, and multi-SIEM support (Splunk, Elastic, QRadar). | Python · LangGraph |
 | 🔍 **Scanor** | Android app that analyzes permissions, trackers and privacy policies of installed apps or APK files, with VirusTotal integration. Includes backend and web. | Kotlin · Python · TypeScript |
-| 🧠 **nora-agent** | Self-hosted personal assistant, harness- and LLM-agnostic, with persistent memory. | Python · LLMs |
-| 🏃 **prometeo** | Training, nutrition and planning powered by COROS data and AI. | Python · AI |
-| 📡 **radar** | Self-hosted news portal aggregating 72 RSS feeds and APIs (AI, cybersecurity, DevOps, ESP32…). Zero dependencies. | Python · vanilla JS |
-| 🔒 **vps-hardening** | Automated VPS server hardening. | Shell |
-| 🗣️ **learning-languages** | Learning languages as a project: curriculum, spaced-repetition trainer in the terminal and progress versioned in git. | Python |
+| 🧠 **Nora-agent** | Self-hosted personal assistant, harness- and LLM-agnostic, with persistent memory. | Python · LLMs |
+| 🏃 **Prometeo** | Training, nutrition and planning powered by COROS data and AI. | Python · AI |
+| 📡 **Radar** | Self-hosted news portal aggregating 72 RSS feeds and APIs (AI, cybersecurity, DevOps, ESP32…). Zero dependencies. | Python · vanilla JS |
 
 > 📚 University projects: [UVa-Projects](https://github.com/JavivuG/UVa-Projects) · [StudyHub](https://github.com/JavivuG/StudyHub) · [PAR-King-GUI](https://github.com/JavivuG/PAR-King-GUI)
 
