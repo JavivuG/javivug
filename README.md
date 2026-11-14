@@ -38,7 +38,7 @@ I started as an **L1 SOC analyst**, so everything I build is designed around the
 | Project | What it is | Stack |
 |---|---|---|
 | 🤖 **Soc-agents** | PoC automating a managed SOC (MSSP) with AI agents: triage, human approval for containment, and multi-SIEM support (Splunk, Elastic, QRadar). | Python · LangGraph |
-| 🔍 **[Scanor](https://scanorapp.com)** | Security & privacy auditing platform for Android apps: permissions, hidden trackers, VirusTotal reputation and NLP analysis of privacy policies, summarized in a 0–10 score. Full product: Android app, REST backend, public website and GitOps deployment. Presented at [Navaja Negra 2025](https://www.youtube.com/watch?v=RQAzpts_JBU). | Kotlin · Jetpack Compose · FastAPI · Celery · PostgreSQL · Next.js · k3s · Argo CD |
+| 🔍 **Scanor** | Security & privacy auditing platform for Android apps: permissions, hidden trackers, VirusTotal reputation and NLP analysis of privacy policies, summarized in a 0–10 score. Full product: Android app, REST backend, public website and GitOps deployment. Presented at [Navaja Negra 2025](https://www.youtube.com/watch?v=RQAzpts_JBU). | Kotlin · Jetpack Compose · FastAPI · Celery · PostgreSQL · Next.js · k3s · Argo CD |
 | 🧠 **Nora-agent** | Self-hosted personal assistant, harness- and LLM-agnostic, with persistent memory. | Python · LLMs |
 | 🏃 **Prometeo** | Training, nutrition and planning powered by COROS data and AI. | Python · AI |
 | 📡 **Radar** | Self-hosted news portal aggregating 72 RSS feeds and APIs (AI, cybersecurity, DevOps, ESP32…). Zero dependencies. | Python · vanilla JS |
