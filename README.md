@@ -57,7 +57,9 @@ I started as an **L1 SOC analyst**, so everything I build is designed around the
   <img src="https://img.shields.io/badge/Splunk%20AI%20Toolkit-65A637?style=flat-square&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk%20AI%20Assistant-65A637?style=flat-square&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wazuh-3595F7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white"/>
   <img src="https://img.shields.io/badge/QRadar-052FAD?style=flat-square"/>
   <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white"/>
 </p>
