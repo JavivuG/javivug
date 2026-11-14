@@ -51,7 +51,6 @@ I started as an **L1 SOC analyst**, so everything I build is designed around the
 
 **Security (SOC / Blue Team)**
 <p>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk%20SOAR-000000?style=flat-square&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk%20ES%20Premier-000000?style=flat-square&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk%20AI%20Toolkit-65A637?style=flat-square&logo=splunk&logoColor=white"/>
@@ -60,8 +59,6 @@ I started as an **L1 SOC analyst**, so everything I build is designed around the
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QRadar-052FAD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white"/>
 </p>
 
 **Platform & infrastructure**
