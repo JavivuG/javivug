@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Javier García 👋</h1>
 
 <p align="center">
-  <b>Cyber Security Engineer @ GMV</b> · SOC/CERT · SIEM & SOAR · Kubernetes · AI agents for security operations
+  <b>Cyber Security Engineer @ GMV</b> · SOC/CERT · SIEM & SOAR · Splunk AI · Kubernetes · AI agents for security operations
   <br/>
   📍 Valladolid, Spain
 </p>
@@ -22,6 +22,7 @@ I design the platforms SOC teams work on. At **GMV's SOC/CERT** I build and run 
 - **Distributed data pipelines** on Apache Kafka, deployed across multiple physical sites so they keep running even if one goes down.
 - **Splunk SOAR playbooks** to automate response.
 - **AI agents** (LangGraph) that automate alert enrichment and triage, deployed on Kubernetes.
+- **AI-driven SecOps in Splunk**: hands-on with the **Splunk AI Toolkit** (formerly MLTK: ML-SPL, LLM connectors and the `ai` command to bring LLM inference into SPL searches) and the **AI Assistant in Splunk Enterprise Security Premier** (AI-assisted investigation and agentic triage of findings).
 
 I started as an **L1 SOC analyst**, so everything I build is designed around the analyst's day-to-day: less noise, faster triage.
 
@@ -54,6 +55,9 @@ I started as an **L1 SOC analyst**, so everything I build is designed around the
 <p>
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk%20SOAR-000000?style=flat-square&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk%20ES%20Premier-000000?style=flat-square&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk%20AI%20Toolkit-65A637?style=flat-square&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk%20AI%20Assistant-65A637?style=flat-square&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wazuh-3595F7?style=flat-square"/>
   <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white"/>
   <img src="https://img.shields.io/badge/QRadar-052FAD?style=flat-square"/>
